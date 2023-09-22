@@ -1,0 +1,1 @@
+String loginUrlImage='https://w0.peakpx.com/wallpaper/676/692/HD-wallpap…iness-centers-skyscrapers-modern-architecture.jpg';
